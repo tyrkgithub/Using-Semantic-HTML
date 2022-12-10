@@ -20,7 +20,7 @@ To achieve accessibility standards I need to ensure:
 <li>Title elements contain a concise, descriptive title</li>
 
 <h2>Resources</h2>
-<p>To complete this task I refered to to code we made in our week one group project. I applied knowledge learnt in my 1-1 with Michelle, which achieved that outome I was looking for. (This was changing the "div class hero div" to "img id hero img" in the html and in the css changing ".hero" to "#hero".</p>
+<p>To complete this task I refered to to code we made in our week one group project for class. I applied knowledge learnt in my 1-1 with Michelle, which achieved that outome I was looking for. (This was changing the "div class hero div" to "img id hero img" in the html and in the css changing ".hero" to "#hero".</p>)
 
- <img src="" alt="picture of how the page should look" width="400px">
 
+<img width="497" alt="week-one-challenge-screenshot" src="https://user-images.githubusercontent.com/118772733/206878711-5315c72b-ed2d-4832-8ef3-da10b788d88b.png">
