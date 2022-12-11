@@ -54,7 +54,7 @@
   <br/>
  
   <p>To complete this task I refered to HTML and CSS created for the group project in the first week of my Web Application class.<br/>
-   I applied knowledge learnt in my 1-1 tutoring session with Michelle<br/>
+   I also applied knowledge learnt in my 1-1 tutoring session.<br/>
   
   <br/>
 
