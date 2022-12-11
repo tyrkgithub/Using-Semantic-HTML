@@ -82,7 +82,7 @@
   
   <ul>
    <li>Examples of non semantic elements are "div" and "span". Examples of semantic elements are "article" and "form".</li>
-   <li>When changing "div class=hero div" to "img id=hero img" in the html and in the css changing ".hero"  to "#hero".)</p>
+   <li>When changing "div class=hero div" to "img id=hero img" in the HTML and in the CSS changing ".hero"  to "#hero".</p>
 
 
 
