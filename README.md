@@ -68,7 +68,7 @@
 
   <img width="497" alt="Screenshot provided for week one challenge" src="https://user-images.githubusercontent.com/118772733/206880866-750420e1-0255-45b9-a430-edc60162898c.png"><img width="497" alt="Week one challenge screenshot" src="https://user-images.githubusercontent.com/118772733/206878711-5315c72b-ed2d-4832-8ef3-da10b788d88b.png"><br/>
   
-  <p>The image on the left is a screenshot of the application before I started work on it. On the right is a screenshot of my deployed application.</p>
+  <p>The first is a screenshot of the application before I started work on it. The second is a screenshot of my deployed application.</p>
 
   <br/>
   
